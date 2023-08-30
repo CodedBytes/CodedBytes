@@ -21,8 +21,8 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <br>
   Olá, me chamo <b>João Victor</b>, tenho <b>24 anos</b>, moro em <b>São Paulo, Brasil</b>.<br>
-  Atualmente estou cursando Full-Stack de forma online.<br>
-  Preparando para iniciar uma graduação em <b>analise e desenvolvimento de sistemas.</b>
+  Atualmente estou cursando Full-Stack de forma online,<br>
+  E uma graduação em <b>analise e desenvolvimento de sistemas.</b>
 </div>
 
 ##
