@@ -103,7 +103,7 @@ You can click the Preview link to take a look at your changes.
 </table><br><br>
 
 
-## 💎 IDEs e Ferraentas que uso
+## 💎 IDEs e Ferramentas que uso
 <table>
   <thead>
     <tr align="left">
