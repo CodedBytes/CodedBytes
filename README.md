@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
-## ✨ Historia
+## :technologist: Historia
 
 <div align="center">
   <br>
@@ -139,7 +139,30 @@ You can click the Preview link to take a look at your changes.
       <td>WebSite que uso atualmente para manipular de forma rapida meus repositorios. <a href="https://www.dio.me/certificate/6DB16EC2">Certificado DIO</td>
     </tr>
   </tbody>
-</table><br><br>
+</table><br>
+
+## :globe_with_meridians: Idiomas
+<table>
+  <thead>
+    <tr align="left">
+      <th>N°</th>
+      <th>Idioma</th>
+      <th>Nivel</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01</td>
+      <td>Português Brasileiro</td>
+      <td>Nativo</td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>Inglês</td>
+      <td>Intermediário</td>
+    </tr>
+  </tbody>
+</table><br>
 
 ## ✨ Estatisticas
 
