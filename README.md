@@ -51,6 +51,7 @@ You can click the Preview link to take a look at your changes.
       <th>N°</th>
       <th>Linguagem</th>
       <th>Nivel</th>
+      <th>Descrição</th>
     </tr>
   </thead>
   <tbody>
@@ -58,46 +59,70 @@ You can click the Preview link to take a look at your changes.
       <td>01</td>
       <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></td>
       <td>Expert</td>
+      <td>Conhecimento completo na cemantica, estrutura, funcionamento de um HTML5. Certificados : </td>
     </tr>
     <tr>
       <td>02</td>
       <td><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></td>
       <td>Expert</td>
+      <td>Conhecimento completo na estrutura, funcionamento de um CSS3. Certificados: </td>
     </tr>
     <tr>
       <td>03</td>
       <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></td>
       <td>Intermediario</td>
+      <td>Conhecimento essencial na estrutura, funcionamento e lágica em JS. Certificados : 
+        <a href="https://www.dio.me/certificate/F7E5E20D">Componentes</a>; 
+        <a href="https://www.dio.me/certificate/59981820">Algoritimos</a>; 
+        <a href="https://www.dio.me/certificate/3C9155F6">array e estrutura</a>; 
+        <a href="https://www.dio.me/certificate/4AE993F8">Criação e manip de objetos</a>; 
+      </td>
     </tr>
     <tr>
       <td>04</td>
       <td><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /></td>
       <td>Intermediario</td>
+      <td>Conhecimento essencial na estrutura, funcionamento e lágica em SQL.</td>
     </tr>
     <tr>
       <td>05</td>
       <td><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /></td>
       <td>Intermediario</td>
+      <td>Conhecimento essencial na estrutura, funcionamento e lágica em C#.</td>
     </tr>
     <tr>
       <td>06</td>
-      <td><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></td>
       <td>Básico</td>
+      <td>Conhecimento necessario na estrutura, funcionamento e lágica em TypeScript aplicado a frameworks/library (Estudando).
+        Certificados : <a href="https://www.dio.me/certificate/7F0CFC61">TypeScript para frameworks</a>;
+      </td>
     </tr>
     <tr>
       <td>07</td>
       <td><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /></td>
-      <td>Básico</td>
+      <td>Básico ~ Intermediario</td>
+      <td>Conhecimento necessario na estrutura, funcionamento e lágica em Node.JS</td>
     </tr>
     <tr>
       <td>08</td>
       <td><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></td>
-      <td>Intermediario</td>
+      <td>Básico ~ Intermediario</td>
+      <td>Conhecimento necessario na estrutura, funcionamento e lágica em PHP.</td>
     </tr>
     <tr>
       <td>09</td>
       <td><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /></td>
       <td>Básico</td>
+      <td>Conhecimento necessario na estrutura, funcionamento de um sql server, inclusive na configuração e setup de um novo servidor.</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /></td>
+      <td>Básico</td>
+      <td>Conhecimento inicial na estrutura, funcionamento e a logica em Angular com typescript. Certificados :
+        <a href="https://www.dio.me/certificate/F877A5B4">Introdução ao Angular</a>
+      </td>
     </tr>
   </tbody>
 </table><br><br>
@@ -136,7 +161,7 @@ You can click the Preview link to take a look at your changes.
       <td>03</td>
       <td><a href="https://docs.github.com/"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC" /></a></td>
       <td>Intermediario</td>
-      <td>WebSite que uso atualmente para manipular de forma rapida meus repositorios. <a href="https://www.dio.me/certificate/6DB16EC2">Certificado DIO</td>
+      <td>WebSite que uso atualmente para manipular de forma rapida meus repositorios. <a href="https://www.dio.me/certificate/6DB16EC2">Certificado DIO</a></td>
     </tr>
   </tbody>
 </table><br>
