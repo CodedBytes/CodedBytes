@@ -7,6 +7,7 @@ You can click the Preview link to take a look at your changes.
 
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 </div>
 
@@ -15,8 +16,8 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <br>
-  Olá, me chamo <b>João Victor</b>, tenho <b>24 anos</b>, atualmente resido em <b>São Paulo, Brasil</b>.<br>
-  Cursando Full-Stack de forma online e uma graduação em <b>analise e desenvolvimento de sistemas.</b><br><br>
+  Olá, me chamo <b>João Victor</b>, tenho <b>25 anos</b>, atualmente resido em <b>São Paulo, Brasil</b>.<br>
+  Cursando Full-Stack de forma online e uma graduação em <b>Análise e Desenvolvimento de Sistemas.</b><br><br>
 
 </div>
 
@@ -43,7 +44,7 @@ You can click the Preview link to take a look at your changes.
   
 </div>
 
-## 🎓 Linguagens, frameworks e middlewares
+## 🎓 Técnologias
 
 <table>
   <thead>
@@ -82,53 +83,67 @@ You can click the Preview link to take a look at your changes.
       <td>04</td>
       <td><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /></td>
       <td>Intermediario</td>
-      <td>Conhecimento essencial na estrutura, funcionamento e lágica em SQL.</td>
+      <td>Conhecimento essencial na estrutura, funcionamento e lógica em SQL.</td>
     </tr>
     <tr>
       <td>05</td>
       <td><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /></td>
       <td>Intermediario</td>
-      <td>Conhecimento essencial na estrutura, funcionamento e lágica em C#.</td>
+      <td>Conhecimento essencial na estrutura, funcionamento e lógica em C#.</td>
     </tr>
     <tr>
       <td>06</td>
       <td><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></td>
-      <td>Básico</td>
-      <td>Conhecimento necessario na estrutura, funcionamento e lágica em TypeScript aplicado a frameworks/library (Estudando).
+      <td>Básico ~Intermediario</td>
+      <td>Conhecimento necessario na estrutura, funcionamento e lógica em TypeScript aplicado a frameworks/library (Estudando).
         Certificados : <a href="https://www.dio.me/certificate/7F0CFC61">TypeScript para frameworks</a>;
       </td>
     </tr>
     <tr>
       <td>07</td>
       <td><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /></td>
-      <td>Básico ~ Intermediario</td>
-      <td>Conhecimento necessario na estrutura, funcionamento e lágica em Node.JS</td>
+      <td>Intermediario</td>
+      <td>Conhecimento necessario na estrutura, funcionamento e lógica em Node.JS</td>
     </tr>
     <tr>
       <td>08</td>
       <td><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></td>
       <td>Básico ~ Intermediario</td>
-      <td>Conhecimento necessario na estrutura, funcionamento e lágica em PHP.</td>
+      <td>Conhecimento necessario na estrutura, funcionamento e lógica em PHP.</td>
     </tr>
     <tr>
       <td>09</td>
       <td><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /></td>
-      <td>Básico</td>
-      <td>Conhecimento necessario na estrutura, funcionamento de um sql server, inclusive na configuração e setup de um novo servidor.</td>
+      <td>Intermediário</td>
+      <td>Conhecimento na estrutura, funcionamento de um sql server, inclusive na configuração de servidores, procedures, etc..</td>
     </tr>
     <tr>
       <td>10</td>
       <td><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /></td>
-      <td>Básico</td>
-      <td>Conhecimento inicial na estrutura, funcionamento e a logica em Angular com typescript. Certificados :
+      <td>Intermediário</td>
+      <td>Conhecimento na estrutura, funcionamento e a lógica em Angular com typescript. Certificados :
         <a href="https://www.dio.me/certificate/F877A5B4">Introdução ao Angular</a>
+    </td>
+    <tr>
+      <td>11</td>
+      <td><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></td>
+      <td>Básico</td>
+      <td>Conhecimento inicial em criação, controle e configuração da plataforma de containerização mais conhecida atualmente, relevante tambem em conceitos de CI/CD. Certificados :
+        <a href="#"></a>
+      </td>
+    <tr>
+      <td>12</td>
+      <td><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" /></td>
+      <td>Intermediario</td>
+      <td>Conhecimento em contrução, condições, regras, base teórica solida. Certificados :
+        <a href="#"></a>
       </td>
     </tr>
   </tbody>
 </table><br><br>
 
 
-## 💎 IDEs e Ferramentas que uso
+## 💎 IDEs e Ferramentas
 <table>
   <thead>
     <tr align="left">
@@ -173,6 +188,7 @@ You can click the Preview link to take a look at your changes.
       <th>N°</th>
       <th>Idioma</th>
       <th>Nivel</th>
+      <th>Certificado</th>
     </tr>
   </thead>
   <tbody>
@@ -180,11 +196,13 @@ You can click the Preview link to take a look at your changes.
       <td>01</td>
       <td>Português Brasileiro</td>
       <td>Nativo</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>02</td>
       <td>Inglês</td>
-      <td>Intermediário</td>
+      <td>Intermediário B2</td>
+      <td><a href="https://cert.efset.org/SHLciy">Clique Aqui!</a></td>
     </tr>
   </tbody>
 </table><br>
