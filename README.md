@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
     <td align="left">
       <span><b>yuuto.x</b></span>
       <br>
-      <span>Desenvolvedor Front-end / Back-end</span>
+      <span>Desenvolvedor Full-Stack</span>
     </td>
   </tr>
 </table><br><br>
@@ -60,13 +60,13 @@ You can click the Preview link to take a look at your changes.
       <td>01</td>
       <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></td>
       <td>Expert</td>
-      <td>Conhecimento completo na cemantica, estrutura, funcionamento de um HTML5. Certificados : </td>
+      <td>Conhecimento completo na cemantica, estrutura, funcionamento de um HTML5</td>
     </tr>
     <tr>
       <td>02</td>
       <td><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></td>
       <td>Expert</td>
-      <td>Conhecimento completo na estrutura, funcionamento de um CSS3. Certificados: </td>
+      <td>Conhecimento completo na estrutura, funcionamento de um CSS3</td>
     </tr>
     <tr>
       <td>03</td>
@@ -82,60 +82,60 @@ You can click the Preview link to take a look at your changes.
     <tr>
       <td>04</td>
       <td><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /></td>
-      <td>Intermediario</td>
-      <td>Conhecimento essencial na estrutura, funcionamento e lógica em SQL.</td>
+      <td>Intermediário</td>
+      <td>Conhecimento essêncial na estrutura e funcionamento.</td>
     </tr>
     <tr>
       <td>05</td>
       <td><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /></td>
-      <td>Intermediario</td>
-      <td>Conhecimento essencial na estrutura, funcionamento e lógica em C#.</td>
+      <td>Intermediário</td>
+      <td>Conhecimento essêncial na estrutura, funcionamento e lógica em C#, controle de classes e boa manipulação de class loader.</td>
     </tr>
     <tr>
       <td>06</td>
       <td><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></td>
-      <td>Básico ~Intermediario</td>
-      <td>Conhecimento necessario na estrutura, funcionamento e lógica em TypeScript aplicado a frameworks/library (Estudando).
+      <td>Básico ~ Intermediário</td>
+      <td>Conhecimento necessario na estrutura, funcionamento e lógica em TypeScript aplicado a frameworks/library.
         Certificados : <a href="https://www.dio.me/certificate/7F0CFC61">TypeScript para frameworks</a>;
       </td>
     </tr>
     <tr>
       <td>07</td>
       <td><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /></td>
-      <td>Intermediario</td>
-      <td>Conhecimento necessario na estrutura, funcionamento e lógica em Node.JS</td>
+      <td>Intermediário</td>
+      <td>Conhecimento necessario na estrutura, funcionamento e lógica em Node.JS aplicadas especialmente para APIs Restful</td>
     </tr>
     <tr>
       <td>08</td>
-      <td><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></td>
-      <td>Básico ~ Intermediario</td>
-      <td>Conhecimento necessario na estrutura, funcionamento e lógica em PHP.</td>
-    </tr>
-    <tr>
-      <td>09</td>
       <td><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /></td>
       <td>Intermediário</td>
       <td>Conhecimento na estrutura, funcionamento de um sql server, inclusive na configuração de servidores, procedures, etc..</td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>09</td>
       <td><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /></td>
       <td>Intermediário</td>
-      <td>Conhecimento na estrutura, funcionamento e a lógica em Angular com typescript. Certificados :
+      <td>Conhecimento na estrutura, funcionamento e a lógica em Angular com typescript e java script. Certificados :
         <a href="https://www.dio.me/certificate/F877A5B4">Introdução ao Angular</a>
     </td>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></td>
       <td>Básico</td>
       <td>Conhecimento inicial em criação, controle e configuração da plataforma de containerização mais conhecida atualmente, relevante tambem em conceitos de CI/CD. Certificados :
         <a href="#"></a>
       </td>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" /></td>
-      <td>Intermediario</td>
-      <td>Conhecimento em contrução, condições, regras, base teórica solida. Certificados :
+      <td>Intermediário</td>
+      <td>Conhecimento em contrução, condições, regras, base teórica solida.</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></td>
+      <td>Básico ~ Intermediário</td>
+      <td>Conhecimento em contrução, componentes, variaveis de estado, renderização e ferramentras. Certificados :
         <a href="#"></a>
       </td>
     </tr>
@@ -173,10 +173,10 @@ You can click the Preview link to take a look at your changes.
       <td>Ferramenta que uso atualmente para realizar os commits para meu portfólio. <a href="https://www.dio.me/certificate/6DB16EC2">Certificado DIO</a></td>
     </tr>
     <tr>
-      <td>03</td>
+      <td>04</td>
       <td><a href="https://docs.github.com/"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC" /></a></td>
       <td>Intermediario</td>
-      <td>WebSite que uso atualmente para manipular de forma rapida meus repositorios. <a href="https://www.dio.me/certificate/6DB16EC2">Certificado DIO</a></td>
+      <td>WebSite que uso atualmente para manipular de forma rapida os meus repositorios. <a href="https://www.dio.me/certificate/6DB16EC2">Certificado DIO</a></td>
     </tr>
   </tbody>
 </table><br>
@@ -187,7 +187,7 @@ You can click the Preview link to take a look at your changes.
     <tr align="left">
       <th>N°</th>
       <th>Idioma</th>
-      <th>Nivel</th>
+      <th>Nível</th>
       <th>Certificado</th>
     </tr>
   </thead>
@@ -201,7 +201,7 @@ You can click the Preview link to take a look at your changes.
     <tr>
       <td>02</td>
       <td>Inglês</td>
-      <td>Intermediário B2</td>
+      <td>Intermediário Superior B2</td>
       <td><a href="https://cert.efset.org/SHLciy">Clique Aqui!</a></td>
     </tr>
   </tbody>
@@ -209,7 +209,7 @@ You can click the Preview link to take a look at your changes.
 
 ## ✨ Estatisticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodedBytes&show_icons=true&theme=radical)
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodedBytes&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodedBytes&layout=donut&bg_color=141321&text_color=51A2D1&title_color=B017B9)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
