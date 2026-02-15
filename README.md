@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <br>
-  Olá, me chamo <b>João Victor</b>, tenho <b>25 anos</b>, atualmente resido em <b>São Paulo, Brasil</b>.<br>
-  Cursando Full-Stack de forma online e uma graduação em <b>Análise e Desenvolvimento de Sistemas.</b><br><br>
+  Olá, me chamo <b>João Victor</b>, tenho <b>26 anos</b>, atualmente resido em <b>São Paulo, Brasil</b>.<br>
+  Cursando Full-Stack de forma online.<br><br>
 
 </div>
 
@@ -26,8 +26,8 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <br>
   Sempre gostei de retirar minhas idéias do papel e por em pratica.<br>
-  E aos <b>14 anos</b> de idade, ja desenvolvia codigos simples para jogos 2D em GML, usando a IDE : Game Maker<br>
-  Após terminar meu curso tecnico em T.I, fui atraido pelo desenvolvimento de WebApps, e me apaixonando cada vez mais de forma geral !<br><br>
+  Aos <b>14 anos</b> de idade, já desenvolvia codigos simples para jogos 2D em GML, usando Game Maker<br>
+  Após terminar meu curso tecnico em T.I, fui atraido pelo desenvolvimento de WebApps, e acabei me apaixonando cada vez mais por desenvolvimento de softwares.<br><br>
 
 <table>
   <tr>
@@ -71,8 +71,8 @@ You can click the Preview link to take a look at your changes.
     <tr>
       <td>03</td>
       <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></td>
-      <td>Intermediario</td>
-      <td>Conhecimento essencial na estrutura, funcionamento e lágica em JS. Certificados : 
+      <td>Avançado</td>
+      <td>Conhecimento essencial na estrutura, funcionamento e lágica em JS, tais como conhecimentos adquiridos após 1 ano de experiencia. Certificados : 
         <a href="https://www.dio.me/certificate/F7E5E20D">Componentes</a>; 
         <a href="https://www.dio.me/certificate/59981820">Algoritimos</a>; 
         <a href="https://www.dio.me/certificate/3C9155F6">array e estrutura</a>; 
@@ -89,7 +89,7 @@ You can click the Preview link to take a look at your changes.
       <td>05</td>
       <td><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /></td>
       <td>Intermediário</td>
-      <td>Conhecimento essêncial na estrutura, funcionamento e lógica em C#, controle de classes e boa manipulação de class loader.</td>
+      <td>Conhecimento essêncial na estrutura, funcionamento e lógica em C#, POO e boa manipulação de class loader.</td>
     </tr>
     <tr>
       <td>06</td>
@@ -121,7 +121,7 @@ You can click the Preview link to take a look at your changes.
     <tr>
       <td>10</td>
       <td><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></td>
-      <td>Básico</td>
+      <td>Intermediário</td>
       <td>Conhecimento inicial em criação, controle e configuração da plataforma de containerização mais conhecida atualmente, relevante tambem em conceitos de CI/CD. Certificados :
         <a href="#"></a>
       </td>
@@ -134,8 +134,8 @@ You can click the Preview link to take a look at your changes.
     <tr>
       <td>12</td>
       <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></td>
-      <td>Básico ~ Intermediário</td>
-      <td>Conhecimento em contrução, componentes, variaveis de estado, renderização e ferramentras. Certificados :
+      <td>Intermediário</td>
+      <td>Conhecimento em contrução, componentes, variaveis de estado, renderização e ferramentras, tais como aprendizados em 1 ano de experiencia. Certificados :
         <a href="#"></a>
       </td>
     </tr>
