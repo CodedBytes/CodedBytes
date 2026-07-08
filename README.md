@@ -6,9 +6,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&pause=1000&width=435&lines=Bem-Vindo(a)+ao+meu+GitHub+!" alt="Typing SVG" /></a>
 
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 </div>
 
 
@@ -16,8 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <br>
-  Olá, me chamo <b>João Victor</b>, tenho <b>26 anos</b>, atualmente resido em <b>São Paulo, Brasil</b>.<br>
-  Cursando Full-Stack de forma online.<br><br>
+  Olá, me chamo <b>João Victor</b>, tenho <b>27 anos</b>, atualmente Cursando engenharia de software pela instituição Anhanguera e realizando estudos sobre I.A por conta própria.<br><br>
 
 </div>
 
@@ -26,8 +23,8 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <br>
   Sempre gostei de retirar minhas idéias do papel e por em pratica.<br>
-  Aos <b>14 anos</b> de idade, já desenvolvia codigos simples para jogos 2D em GML, usando Game Maker<br>
-  Após terminar meu curso tecnico em T.I, fui atraido pelo desenvolvimento de WebApps, e acabei me apaixonando cada vez mais por desenvolvimento de softwares.<br><br>
+  Aos <b>14 anos</b> de idade, já desenvolvia jogos 2D em GML, usando Game Maker e posteriormente Game Maker Studio 1 e 2<br>
+  Após terminar meu curso tecnico em T.I, fui atraido pelo desenvolvimento de WebApps e acabei me apaixonando cada vez mais por desenvolvimento de softwares.<br><br>
 
 <table>
   <tr>
@@ -50,7 +47,7 @@ You can click the Preview link to take a look at your changes.
   <thead>
     <tr align="left">
       <th>N°</th>
-      <th>Linguagem</th>
+      <th>Técnologia</th>
       <th>Nivel</th>
       <th>Descrição</th>
     </tr>
@@ -81,9 +78,9 @@ You can click the Preview link to take a look at your changes.
     </tr>
     <tr>
       <td>04</td>
-      <td><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
       <td>Intermediário</td>
-      <td>Conhecimento essêncial na estrutura e funcionamento.</td>
+      <td>Conhecimento essêncial na estrutura, funcionamento, e queries SQL como SELECT, UPDATE, JOINs, ORDER BY, GROUP BY, Manipulação de JSONB, etc..</td>
     </tr>
     <tr>
       <td>05</td>
@@ -113,35 +110,83 @@ You can click the Preview link to take a look at your changes.
     </tr>
     <tr>
       <td>09</td>
-      <td><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /></td>
-      <td>Intermediário</td>
-      <td>Conhecimento na estrutura, funcionamento e a lógica em Angular com typescript e java script. Certificados :
-        <a href="https://www.dio.me/certificate/F877A5B4">Introdução ao Angular</a>
-    </td>
-    <tr>
-      <td>10</td>
       <td><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></td>
       <td>Intermediário</td>
-      <td>Conhecimento inicial em criação, controle e configuração da plataforma de containerização mais conhecida atualmente, relevante tambem em conceitos de CI/CD. Certificados :
-        <a href="#"></a>
+      <td>Conhecimento inicial em criação, controle e configuração da plataforma de containerização mais conhecida atualmente, relevante tambem em conceitos de CI/CD aprendidos ao decorrer dos projetos internos empresariais.
       </td>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" /></td>
       <td>Intermediário</td>
       <td>Conhecimento em contrução, condições, regras, base teórica solida.</td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></td>
       <td>Intermediário</td>
-      <td>Conhecimento em contrução, componentes, variaveis de estado, renderização e ferramentras, tais como aprendizados em 1 ano de experiencia. Certificados :
-        <a href="#"></a>
+      <td>Conhecimento em contrução, componentes, variaveis de estado, renderização e ferramentras, tais como aprendizados em 1 ano de experiencia com projetos internos empresariais.
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" /></td>
+      <td>-</td>
+      <td>Conhecimento no funcionamento, setup do servidor e cliente para React e Node, configurações e técnicas de manipulação de caches com redis.
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td><img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" /></td>
+      <td>Intermediário</td>
+      <td>Conhecimento na construção de plugins, construção de APIs escaláveis e Decorators utilizando Fastify.
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /></td>
+      <td>Intermediário</td>
+      <td>Conhecimento na utilização de classes de estilização para um desenvolvimento rápido utilizando tailwind css.
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" /></td>
+      <td>-</td>
+      <td>Conhecimento na utilização de JWTs para cosntrução de autorização de logins de usuários em APIs.
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /></td>
+      <td>-</td>
+      <td>Conhecimento na utilização de rotas para navegação em aplicativos SPA utilizados com React.
       </td>
     </tr>
   </tbody>
 </table><br><br>
 
+## 🤖 I.As
+<table>
+  <thead>
+    <tr align="left">
+      <th>N°</th>
+      <th>I.A</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01</td>
+      <td><img src="https://img.shields.io/badge/Qwen-6950EF?style=for-the-badge&logo=qwen&logoColor=white" /></td>
+      <td>Utilização e treinamento em cima de alguns modelos do Qwen para realização de Chatbots para RPG Roleplaying </td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td><img src="https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" /></td>
+      <td>Utilização para construção dos Chatbots para RPG Roleplaying.</td>
+    </tr>
+  </tbody>
+</table><br>
 
 ## 💎 IDEs e Ferramentas
 <table>
@@ -206,11 +251,3 @@ You can click the Preview link to take a look at your changes.
     </tr>
   </tbody>
 </table><br>
-
-## ✨ Estatisticas
-
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodedBytes&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodedBytes&layout=donut&bg_color=141321&text_color=51A2D1&title_color=B017B9)](https://github.com/anuraghazra/github-readme-stats)
-
-##
-
